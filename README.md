@@ -1,4 +1,4 @@
 - Hi, I’m @WonkyCow
 - My main interests are Virtual Reality gaming, and gaming in general. I also host several Minecraft Servers!
 - I’m currently learning C# and some Python, however dont have any large projects im working on
-- You can message me on discord at Wonky Cow#2753 if, for some reason, you need me
+- You can message me on discord at wonkycow if, for some reason, you need me
